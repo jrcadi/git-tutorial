@@ -1,0 +1,29 @@
+git add
+git branch
+git checkout
+git checkout -
+git checkout -b
+git clone
+git commit --amend
+git diff
+git fetch
+git flow
+git flow feature start
+git flow hotfix start
+git flow release finish
+git flow release start
+git init
+git log --graph
+git log -p
+git log --pretty=short
+git merge --no-ff
+git pull
+git push
+git rebase -i
+git reflog
+git remote add
+git reset --hard
+git reset
+git status
+git tag
+
